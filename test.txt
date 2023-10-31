@@ -4,3 +4,20 @@ gergerge
 =======
 aaaaaaaaaaaaaaaaaaaaaaaaa
 etrgertert
+
+
+<<<<<<< main
+eeiieieiiieiieiwwww
+=======
+=======
+fffffffffffffffffffffffffffffffff
+>>>>>>> main
+
+
+
+<<<<<<< main
+eeiieieiiieiieiwwww
+=======
+=======
+fffffffffffffffffffffffffffffffff
+>>>>>>> main
